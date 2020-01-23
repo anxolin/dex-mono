@@ -1,0 +1,8 @@
+[submodule "packages/js"]
+	path = packages/js
+	url = git@github.com:gnosis/dex-js.git
+	branch = master
+[submodule "packages/telegram"]
+	path = packages/telegram
+	url = git@github.com:gnosis/dex-telegram.git
+	branch = master
